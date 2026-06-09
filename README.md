@@ -5,9 +5,9 @@ This project uses basic CRUD operations on FastAPI, it has been made for the sin
 You can test or use it as a template/sample however you want in FastAPI, i recommend using the docs/swagger.
 
 To run it just go to the root folder and run:
-
-fastapi dev main.py
+`fastapi dev main.py`
 
 remember that you need all the requirements on the requirements.txt file by running:
+`pip install -r requirements.txt`
 
-pip install requirements.txt
+Not a big and usable program, just something to try out and may be useful for those who are practicing FastAPI/Backends.
